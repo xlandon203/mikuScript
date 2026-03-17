@@ -7,4 +7,6 @@ For loops,
 Booleans/comparing,
 Moar miku theme!,
 Teto theme (best girl),
-Classes, functions
+Classes, functions,
+Running from file (Ext .39?)
+
